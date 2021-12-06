@@ -1,1 +1,5 @@
-# Exercise_Tracking_Computer_Vision
+# Exercise Tracking With Computer Vision
+By: Alonzo Mays
+___
+### Outline
+___
