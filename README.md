@@ -5,3 +5,11 @@ By: Alonzo Mays
 ___
 ### Outline
 ___
+
+### I. Problem Statement
+### II. Data Dictionary
+### III. EDA
+### IV. Modeling
+### V. Conclusion/Recommendation
+___
+### Problem Statement
